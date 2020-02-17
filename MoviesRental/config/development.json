@@ -1,0 +1,8 @@
+{
+    "name":"My movie rental App ---Development",
+    "mail" : {
+        "host " : "prod-mail-Server",
+        "password":""
+    }
+    
+}
